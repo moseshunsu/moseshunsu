@@ -2,7 +2,7 @@
 
 ## 📝 About Me
 
-🌟 As a dedicated Java trainee at I-Academy, my journey in web development has equipped me with diverse experiences. I'm on a mission to fuse my passion for technology with my keen interest in leadership, aiming to make a meaningful impact in the tech field.
+🌟 As a dedicated Java Backend Engineer, my journey in web development has equipped me with diverse experiences. I'm on a mission to fuse my passion for technology with my keen interest in leadership, aiming to make a meaningful impact in the tech field.
 
 🚀 Join me on this exciting journey as I strive for excellence, continuous growth, and the exploration of new opportunities in the ever-evolving tech landscape.
 
