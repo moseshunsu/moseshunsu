@@ -12,10 +12,6 @@
 
 Let's create a future that's both promising and remarkable. Connect with me, and let's make strides in the world of technology and leadership.
 
-## 🚀 Standout Project
-
-Check out my [Multi-Tenancy Hostel Software](https://github.com/moseshunsu/multi-tenancy-hostel-software), a project where I put my skills to the test.
-
 ## 🚀 Key Technologies
 
 I'm proficient in the following technologies:
